@@ -9,6 +9,7 @@ NAME="Davide Magni"
 VERSION_ID="01.96"
 VERSION="01.96 (!GEN-Z|!Millenial)"
 ID=daavide
+HOME_URL=europe://italy
 ~~~
 
 Working in cybersecurity as **SIEM & SOAR guy**.
