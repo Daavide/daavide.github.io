@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: cat /etc/*release
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+~~~
+NAME="Davide Magni"
+VERSION_ID="01.96"
+VERSION="01.96 (!GEN-Z|!Millenial)"
+ID=daavide
+~~~
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Working in cybersecurity as **SIEM & SOAR guy**.
 
-What else do you need?
+Basically I like to play with anything that can be somehow automated.
 
-### My story
+I created this blog to share ideas and my own experiences on various topics I found myself exploring over the years, related (or not) to "tech" world.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As known, sharing is (should be) caring!
+
